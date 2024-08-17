@@ -4622,7 +4622,7 @@ padding: 0px 20px;
     align-items: center;
   }
   .bb > .team {
-    width: 85%; /* adjust the width to your liking */
+    width: 80%; /* adjust the width to your liking */
     margin-bottom: 20px;
   }
 }
